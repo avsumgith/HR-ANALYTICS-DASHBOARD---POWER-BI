@@ -1,2 +1,2 @@
 # HR-ANALYTICS-DASHBOARD---POWER-BI
-HR ANALYTICS DASHBOARD - POWER BI PROJECT
+This visualization file showcase the employees information on dashboard
